@@ -3,7 +3,7 @@
 🎓 I'm a first-year Software Engineering student passionate about learning new technologies and applying them to solve diverse problems or create exciting experiences
 
 🌱 Currently diving into:
-- Programming fundamentals (Java, Python and C#)
+- Object Oriented Programming (Java, Python and C#)
 - Web development (HTML, CSS, JavaScript)
 - Data structures and algorithms
 
