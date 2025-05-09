@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi! I'm Nada Ouriachi
 
-<!--
-**nadaouriachi/nadaouriachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a first-year Software Engineering student passionate about learning new technologies and applying them to solve diverse problems or create exciting experiences
 
-Here are some ideas to get you started:
+🌱 Currently diving into:
+- Programming fundamentals (Java, Python and C#)
+- Web development (HTML, CSS, JavaScript)
+- Data structures and algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Throughout this year, I aim to share various personal projects, notably featuring APIs and databases, as I continue to learn about them independently
+
+📫 Let's connect:
+- [LinkedIn](https://www.linkedin.com/in/nada-ouriachi) 
+- Email: nada.ouriachi@gmail.com
+
+---
+
+Thanks for stopping by!
